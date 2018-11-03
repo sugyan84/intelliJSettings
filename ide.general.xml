@@ -1,0 +1,11 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="searchInBackground" value="true" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="697" />
+    <entry key="debugger.watches.in.variables" value="false" />
+  </component>
+</application>

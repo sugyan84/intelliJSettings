@@ -1,0 +1,17 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-08-22T19:34:49</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-08-22T20:48:28</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b1b433" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -12,6 +15,12 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Maven_27eca049riskudgopserv9ad52011install">
+    <keyboard-shortcut first-keystroke="f12" second-keystroke="a" />
+  </action>
+  <action id="Maven_27eca049riskudgopservService1e34ce63install">
+    <keyboard-shortcut first-keystroke="f12" second-keystroke="s" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks">

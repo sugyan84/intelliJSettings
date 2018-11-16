@@ -77,8 +77,12 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="valueLookupDelay" value="400" />
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="kotlin_debugger">
         <configuration>

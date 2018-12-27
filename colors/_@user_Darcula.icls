@@ -4,7 +4,7 @@
     <property name="description">Darcula-Java-Color-Code-Syntax</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-11-04T00:46:01</property>
+    <property name="modified">2018-12-27T12:42:34</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -15,6 +15,12 @@
     <option name="CARET_ROW_COLOR" value="4b4b4b" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="968a11" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2c85c6" />

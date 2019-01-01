@@ -19,6 +19,9 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="r" />
+  </action>
   <action id="Maven_27eca049riskudgopserv9ad52011install">
     <keyboard-shortcut first-keystroke="f12" second-keystroke="a" />
   </action>

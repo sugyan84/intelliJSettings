@@ -1,4 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="102400" />
     <option name="EDITOR_TAB_LIMIT" value="20" />

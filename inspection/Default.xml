@@ -48,6 +48,7 @@
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckNodeTest" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CheckStyle" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckValidXmlInScriptTagBody" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -380,7 +381,6 @@
   <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MagicConstant" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedFormatString" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MalformedRegex" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MalformedXPath" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ManualArrayCopy" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ManualArrayToCollectionCopy" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -616,6 +616,7 @@
   </inspection_tool>
   <inspection_tool class="StringEquality" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="StringEqualsCharSequence" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="StringOperationCanBeSimplified" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="StringTokenizerDelimiter" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SuperfluousFormat" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SuspiciousArrayMethodCall" enabled="false" level="WARNING" enabled_by_default="false" />

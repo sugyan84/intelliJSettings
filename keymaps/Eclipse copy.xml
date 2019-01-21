@@ -34,6 +34,10 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />

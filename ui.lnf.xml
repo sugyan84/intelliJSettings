@@ -2,6 +2,7 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="102400" />

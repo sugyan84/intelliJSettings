@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="17" />
+        <option name="actionsExecuted" value="18" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -15,7 +15,6 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -72,6 +71,7 @@
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>

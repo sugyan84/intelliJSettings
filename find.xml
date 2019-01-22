@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [DumpAnalyzer]'" />
-    <option name="defaultScopeName" value="Directory '... [DumpAnalyzer]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [DumpAnalyzer]'" />
+    <option name="customScope" value="Project 'DumpAnalyzer'" />
+    <option name="defaultScopeName" value="Project 'DumpAnalyzer'" />
+    <option name="SEARCH_SCOPE" value="Project 'DumpAnalyzer'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>

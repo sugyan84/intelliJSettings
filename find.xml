@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\main\java\com\paypal\risk\utils\adminlogdetails\dagtasks\AdminTxnLogDetailsServTask.java [decision-lifecycle-helpers]'" />
-    <option name="defaultScopeName" value="File '...\src\main\java\com\paypal\risk\utils\adminlogdetails\dagtasks\AdminTxnLogDetailsServTask.java [decision-lifecycle-helpers]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\paypal\risk\utils\adminlogdetails\dagtasks\AdminTxnLogDetailsServTask.java [decision-lifecycle-helpers]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>

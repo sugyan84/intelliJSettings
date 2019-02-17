@@ -1,72 +1,10 @@
 <application>
-  <component name="PostfixTemplates">
-    <template id="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" key=".nn" provider="builtin.java" builtin="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
-  </component>
   <component name="PostfixTemplatesSettings">
     <option name="providerToDisabledTemplates">
       <disabled-templates provider="builtin.java">
         <value>
           <set>
             <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
-          </set>
-        </value>
-      </disabled-templates>
-      <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
-        <value>
-          <set>
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtAssertPostfixTemplate#.assert" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtElseExpressionPostfixTemplate#.else" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.for" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.iter" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIfExpressionPostfixTemplate#.if" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.val" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.var" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIsNullPostfixTemplate#.null" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.notnull" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotPostfixTemplate#.not" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtParenthesizedPostfixTemplate#.par" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtReturnPostfixTemplate#.return" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSoutPostfixTemplate#.sout" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSpreadPostfixTemplate#.spread" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtTryPostfixTemplate#.try" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhenExpressionPostfixTemplate#.when" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWhilePostfixTemplate#.while" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithArrayOfPostfixTemplate#.arrayOf" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithListOfPostfixTemplate#.listOf" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSequenceOfPostfixTemplate#.sequenceOf" />
-            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtWrapWithSetOfPostfixTemplate#.setOf" />
-          </set>
-        </value>
-      </disabled-templates>
-      <disabled-templates provider="org.jetbrains.plugins.scala.lang.completion.postfix.ScalaPostfixTemplateProvider">
-        <value>
-          <set>
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaAssertPostfixTemplate#.assert" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaCastPostfixTemplate#.cast" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaDoWhilePostfixTemplate#.dowhile" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaElseExpressionPostfixTemplate#.else" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaExhaustiveMatchPostfixTemplate#.match" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaForEachPostfixTemplate#.for" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIfExpressionPostfixTemplate#.if" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIntroduceFieldPostfixTemplate#.field" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIntroduceVariablePostfixTemplate#.var" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIsNullPostfixTemplate#.null" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaListPostfixTemplate#.List" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaMatchPostfixTemplate#.match" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotNullPostfixTemplate#.nn" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotNullPostfixTemplate#.notnull" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotPostfixTemplate#.!" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotPostfixTemplate#.not" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaOptionPostfixTemplate#.Option" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaParenthesizedExpressionPostfixTemplate#.par" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaPrintlnPostfixTemplate#.prtln" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaPrintlnPostfixTemplate#.sout" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaReturnPostfixTemplate#.return" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaSeqPostfixTemplate#.Seq" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaThrowExceptionPostfixTemplate#.throw" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaTryPostfixTemplate#.try" />
-            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaWhilePostfixTemplate#.while" />
           </set>
         </value>
       </disabled-templates>

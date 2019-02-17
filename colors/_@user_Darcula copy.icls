@@ -4,7 +4,7 @@
     <property name="description">Darcula-Java-Color-Code-Syntax</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-05T15:58:52</property>
+    <property name="modified">2019-02-17T12:54:06</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -25,6 +25,12 @@
       <value>
         <option name="FOREGROUND" value="2c85c6" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="cfce0d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">

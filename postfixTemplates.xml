@@ -4,6 +4,13 @@
   </component>
   <component name="PostfixTemplatesSettings">
     <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.java">
+        <value>
+          <set>
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
+          </set>
+        </value>
+      </disabled-templates>
       <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
         <value>
           <set>

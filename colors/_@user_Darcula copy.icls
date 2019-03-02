@@ -4,7 +4,7 @@
     <property name="description">Darcula-Java-Color-Code-Syntax</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2019-02-17T12:54:06</property>
+    <property name="modified">2019-03-02T21:29:35</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -54,6 +54,18 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="165811" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="7b1f18" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

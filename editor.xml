@@ -12,6 +12,7 @@
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="900" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>

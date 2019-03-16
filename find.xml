@@ -5,14 +5,15 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>

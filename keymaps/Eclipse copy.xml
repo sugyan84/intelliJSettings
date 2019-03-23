@@ -2,6 +2,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -16,17 +19,26 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="r" />
+  </action>
   <action id="Maven_27eca049riskudgopserv9ad52011install">
     <keyboard-shortcut first-keystroke="f12" second-keystroke="a" />
   </action>
   <action id="Maven_27eca049riskudgopservService1e34ce63install">
     <keyboard-shortcut first-keystroke="f12" second-keystroke="s" />
   </action>
-  <action id="ShelveChanges.UnshelveWithDialog" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />

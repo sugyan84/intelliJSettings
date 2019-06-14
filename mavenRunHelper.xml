@@ -34,33 +34,12 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
-          </list>
-        </option>
-      </Goals>
-    </option>
-    <option name="pluginAwareGoals">
-      <Goals>
-        <option name="goals">
-          <list>
             <Goal>
-              <option name="commandLine" value="jetty:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat5:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat6:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat7:run" />
+              <option name="commandLine" value="clean deploy -DskipTests" />
             </Goal>
           </list>
         </option>
       </Goals>
     </option>
-    <option name="version" value="1" />
   </component>
 </application>

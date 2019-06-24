@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\riskudgopservService\src\main\java\com\paypal\gops\decision\utils\RUDSUtils.java [riskudgopservService]'" />
-    <option name="defaultScopeName" value="File '...\riskudgopservService\src\main\java\com\paypal\gops\decision\utils\RUDSUtils.java [riskudgopservService]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\riskudgopservService\src\main\java\com\paypal\gops\decision\utils\RUDSUtils.java [riskudgopservService]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>

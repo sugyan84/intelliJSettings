@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="RboUsed" type="JSON" />
+      <mapping pattern="x-sell" type="JSON" />
       <mapping pattern="event_data" type="JSON" />
       <mapping pattern="RboInjected" type="JSON" />
       <mapping ext="dat" type="PLAIN_TEXT" />

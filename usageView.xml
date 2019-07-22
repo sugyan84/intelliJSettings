@@ -3,6 +3,7 @@
     <option name="SHOW_IMPORTS" value="false" />
   </component>
   <component name="UsageViewSettings">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
     <option name="FLATTEN_MODULES" value="false" />
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_SCOPE" value="true" />

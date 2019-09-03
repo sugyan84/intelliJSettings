@@ -19,6 +19,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
   </action>
+  <action id="Git.Configure.Remotes">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="r" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="f" />
   </action>

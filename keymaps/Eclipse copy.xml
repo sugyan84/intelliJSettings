@@ -19,6 +19,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="f" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>

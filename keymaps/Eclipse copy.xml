@@ -52,4 +52,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="p" />
+  </action>
 </keymap>

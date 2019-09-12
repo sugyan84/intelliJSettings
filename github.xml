@@ -3,5 +3,8 @@
     <account id="4d490b36-0f8d-4d03-9679-8c0a76f20a5a" name="sugyan84">
       <server host="github.com" />
     </account>
+    <account id="0bbc7434-0f76-4a6b-a857-05171a830c57" name="sugsahu">
+      <server host="github.paypal.com" />
+    </account>
   </component>
 </application>

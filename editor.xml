@@ -6,7 +6,14 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="false" />
         <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Scala" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />

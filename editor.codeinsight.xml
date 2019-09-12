@@ -1,7 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="800" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
 </application>

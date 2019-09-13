@@ -5,6 +5,8 @@
         <option value="12:00:22.580 [Sherlock-Worker-3-1] WARN org.ebaysf.mcf.reporter.sherlock.SherlockReporter Registration unsuccessful for resolution=60s, profile=perfmon, dimensions={Freq=High, colo=corp, environment=paypal, host=L-BNG-25006540, name=TPS, pool=\${appName}}, metrics={tpm/Gauge[long], oomErrorCount/Gauge[int], javaCpuTime/Gauge[long], transactionTime/Gauge[long], errorCount/Gauge[long]}: org.ebayopensource.sherlock.client.errors.QuotaExceededException: perfmon exceeded its maximum topology count of 240" />
         <option value="[Sherlock-Worker-3-1] WARN  o.e.m.r.sherlock.SherlockReporter - Registration unsuccessful for resolution=" />
         <option value="[Sherlock-Worker-3-1] WARN org.ebaysf.mcf.reporter.sherlock.SherlockReporter Registration unsuccessful for resolution=" />
+        <option value="Sherlock-Nio-Worker-1-1" />
+        <option value="[Sherlock-Worker" />
       </list>
     </option>
   </component>

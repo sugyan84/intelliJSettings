@@ -10,6 +10,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>

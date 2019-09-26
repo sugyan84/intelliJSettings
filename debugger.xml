@@ -91,6 +91,9 @@
       </Renderer>
     </CustomRenderers>
   </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
       <option name="valueLookupDelay" value="400" />

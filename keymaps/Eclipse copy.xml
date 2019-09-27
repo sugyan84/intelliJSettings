@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
+  </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="w" />
   </action>

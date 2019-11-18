@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="RboUsed" type="JSON" />
       <mapping pattern="x-sell" type="JSON" />
       <mapping pattern="event_data" type="JSON" />
-      <mapping pattern="RboInjected" type="JSON" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />

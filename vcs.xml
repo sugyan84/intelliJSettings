@@ -26,9 +26,13 @@
           <option name="url" value="http://github.paypal.com" />
           <option name="userName" value="sugsahu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.paypal.com/RUDS-GOPS/legacy-bna-spec.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Aurora\others" />
+    <option name="cloneParentDir" value="C:\Aurora" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

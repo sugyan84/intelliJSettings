@@ -55,6 +55,13 @@
       <groups />
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="6" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />

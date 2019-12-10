@@ -10,7 +10,8 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="102400" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="1126" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
+    <option name="MAX_LOOKUP_WIDTH2" value="618" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />

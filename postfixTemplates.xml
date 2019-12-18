@@ -3,6 +3,11 @@
     <template id="onn@userDefined" key=".onn" provider="builtin.java" language-level="8" topmost="true">
       <conditions>
         <condition id="notPrimitive" />
+        <condition id="boolean" />
+        <condition id="void" />
+        <condition id="non void" />
+        <condition id="number" />
+        <condition id="array" />
       </conditions>
       <template name="fakeKey" value="java.util.Objects.nonNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>

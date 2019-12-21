@@ -1,4 +1,9 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="800" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="LINE_SPACING" value="1.0" />
@@ -19,8 +24,6 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="900" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>

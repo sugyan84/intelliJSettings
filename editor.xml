@@ -26,4 +26,11 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="question" pattern="\b(sugyan)\b.*" />
+    <filter name="my-code">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>

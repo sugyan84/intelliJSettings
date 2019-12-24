@@ -1,15 +1,14 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="onn@userDefined" key=".onn" provider="builtin.java" language-level="8" topmost="true">
+    <template id="on@userDefined" key=".on" provider="builtin.java" language-level="8" topmost="true">
       <conditions>
         <condition id="notPrimitive" />
-        <condition id="boolean" />
         <condition id="void" />
-        <condition id="non void" />
+        <condition id="boolean" />
         <condition id="number" />
         <condition id="array" />
       </conditions>
-      <template name="fakeKey" value="if(java.util.Objects.nonNull($EXPR$)){&#10;&#10;}" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="java.util.Objects.nonNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>

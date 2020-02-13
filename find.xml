@@ -12,7 +12,7 @@
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

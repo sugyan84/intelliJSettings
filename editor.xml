@@ -6,6 +6,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
@@ -23,8 +24,8 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />

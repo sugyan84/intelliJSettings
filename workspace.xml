@@ -1,0 +1,10 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Groovy" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>

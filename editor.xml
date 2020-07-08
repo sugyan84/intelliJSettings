@@ -1,0 +1,35 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="800" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+    <option name="LINE_SPACING" value="1.0" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Scala" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="question" pattern="\b(sugyan)\b.*" />
+    <filter name="my-code">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>

@@ -1,6 +1,19 @@
 <application>
   <component name="IlluminatedCloudSettings">
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="confirmWrites" value="true" />
+          <option name="connectionName" value="TrailHead-Conn" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="ensureFieldReadAccess" value="false" />
+          <option name="username" value="sugsahu@cunning-raccoon-x2n0hn.com" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
     <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="1" />
   </component>
 </application>

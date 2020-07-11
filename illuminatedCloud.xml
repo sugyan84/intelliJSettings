@@ -1,0 +1,6 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="fileTypeAssistancePolicy" value="ALWAYS" />
+    <option name="promptOverrideSaveAllAction" value="false" />
+  </component>
+</application>

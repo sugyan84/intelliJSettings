@@ -3,7 +3,6 @@
     <option name="connectionConfigs">
       <list>
         <IlluminatedCloudConnectionConfig>
-          <option name="confirmWrites" value="true" />
           <option name="connectionName" value="TrailHead-Conn" />
           <option name="connectionType" value="MDAPI" />
           <option name="ensureFieldReadAccess" value="false" />

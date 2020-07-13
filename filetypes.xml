@@ -2,20 +2,22 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.apex;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="leaflet1.resource" type="ARCHIVE" />
       <mapping pattern="nouislider.resource" type="ARCHIVE" />
+      <mapping pattern="leaflet1.resource" type="ARCHIVE" />
       <mapping pattern="leaflet.resource" type="ARCHIVE" />
       <mapping ext="klib" type="ARCHIVE" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="event_data" type="JSON" />
+      <mapping pattern="x-sell" type="JSON" />
       <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="RboUsed" type="JSON" />
-      <mapping pattern="x-sell" type="JSON" />
-      <mapping pattern="countup7.resource" type="JavaScript" />
       <mapping pattern="heatmapmock.resource" type="JavaScript" />
+      <mapping pattern="countup7.resource" type="JavaScript" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />

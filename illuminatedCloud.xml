@@ -3,16 +3,22 @@
     <option name="connectionConfigs">
       <list>
         <IlluminatedCloudConnectionConfig>
+          <option name="checkForConflicts" value="true" />
+          <option name="confirmWrites" value="true" />
           <option name="connectionName" value="TrailHead-Conn" />
           <option name="connectionType" value="MDAPI" />
+          <option name="disableDeployOnSaveWhenConfirmWrites" value="true" />
           <option name="ensureFieldReadAccess" value="false" />
           <option name="username" value="sugsahu@cunning-raccoon-x2n0hn.com" />
         </IlluminatedCloudConnectionConfig>
       </list>
     </option>
+    <option name="deployOnSave" value="false" />
     <option name="fileTypeAssistancePolicy" value="ALWAYS" />
+    <option name="preferToolingApiForLwc" value="true" />
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="0" />
-    <option name="selectedTabIndex" value="2" />
+    <option name="selectedTabIndex" value="1" />
+    <option name="sfdxAllowDeployRetrieveDelete" value="true" />
   </component>
 </application>

@@ -31,7 +31,6 @@
     <option name="selectedConnectionIndex" value="1" />
     <option name="selectedTabIndex" value="3" />
     <option name="sfdxAllowDeployRetrieveDelete" value="true" />
-    <option name="sfdxExecutablePath" value="$USER_HOME$/Downloads/sfdx-osx.pkg" />
     <option name="sfdxLogCommands" value="true" />
   </component>
 </application>

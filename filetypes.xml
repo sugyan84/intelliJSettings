@@ -25,8 +25,8 @@
       <mapping pattern="heatmapmock.resource" type="JavaScript" />
       <mapping pattern="countup7.resource" type="JavaScript" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />

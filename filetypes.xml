@@ -17,10 +17,10 @@
       <mapping pattern="BW_Paypal_Extras_Card.resource" type="Image" />
       <mapping pattern="BW_Paypal_Cash_Card.resource" type="Image" />
       <mapping pattern="BW_Paypal_Prepaid_Card.resource" type="Image" />
+      <mapping pattern="x-sell" type="JSON" />
       <mapping pattern="FlowPickListConfigTest.resource" type="JSON" />
       <mapping pattern="RboUsed" type="JSON" />
       <mapping pattern="event_data" type="JSON" />
-      <mapping pattern="x-sell" type="JSON" />
       <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="heatmapmock.resource" type="JavaScript" />
       <mapping pattern="countup7.resource" type="JavaScript" />

@@ -31,6 +31,7 @@
     <option name="selectedConnectionIndex" value="1" />
     <option name="selectedTabIndex" value="3" />
     <option name="sfdxAllowDeployRetrieveDelete" value="true" />
+    <option name="sfdxExecutablePath" value="/usr/local/bin/sfdx" />
     <option name="sfdxLogCommands" value="true" />
   </component>
 </application>

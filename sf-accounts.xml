@@ -1,0 +1,12 @@
+<application>
+  <component name="SFAccounts">
+    <SFAccount>
+      <apiVersion>48.0</apiVersion>
+      <loginUrl>https://paypalservicepoc--bloreteam.my.salesforce.com</loginUrl>
+      <name>sbx-1</name>
+      <theCode>dff9dfdfdfcddfd3dfcbdfc4dfeadf92df9e</theCode>
+      <token>dfdddfecdff8df92dfc5dfc6dfffdffcdfc7dff9dfe8dfc3dfe6df9ddf92dff2dfd2dfefdfd2dff3dff2dfc4dfc7df9ddfdf</token>
+      <username>dfd9dfdfdfcddfd9dfcbdfc2dfdfdfeadfdadfcbdfd3dfdadfcbdfc6df84dfc9dfc5dfc7</username>
+    </SFAccount>
+  </component>
+</application>

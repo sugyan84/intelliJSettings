@@ -7,7 +7,7 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="10" />
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="25600" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="102400" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />

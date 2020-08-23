@@ -1,0 +1,8 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="Git.Configure.Remotes">
+    <keyboard-shortcut first-keystroke="meta alt g" second-keystroke="r" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="meta alt g" second-keystroke="f" />
+  </action>
+</keymap>

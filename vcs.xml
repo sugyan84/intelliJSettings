@@ -55,6 +55,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:/Aurora/Patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Sugyan/Repo/nextgen/temp" />
   </component>
 </application>

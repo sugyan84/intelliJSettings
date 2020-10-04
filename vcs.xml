@@ -38,9 +38,13 @@
           <option name="url" value="https://github.com/sugyan84/Challenges.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.paypal.com:Customer-Support-R/csdataabstractionserv.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sugyan/PayPalWork/TestProjects/personal/sugyan" />
+    <option name="cloneParentDir" value="$USER_HOME$/Sugyan/PayPalWork/TestProjects/Others" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

@@ -1,18 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.apex;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.apex;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="appResources.resource" type="ARCHIVE" />
       <mapping pattern="Profile.resource" type="ARCHIVE" />
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="appResources.resource" type="ARCHIVE" />
       <mapping pattern="event_data" type="JSON" />
-      <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="RboUsed" type="JSON" />
+      <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="x-sell" type="JSON" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="item" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />

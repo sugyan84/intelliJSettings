@@ -23,6 +23,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
   <component name="TodoConfiguration">

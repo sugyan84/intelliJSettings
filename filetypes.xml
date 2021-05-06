@@ -8,6 +8,7 @@
       <mapping pattern="RboUsed" type="JSON" />
       <mapping pattern="RboInjected" type="JSON" />
       <mapping pattern="x-sell" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tmp" type="PLAIN_TEXT" />

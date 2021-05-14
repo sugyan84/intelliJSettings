@@ -80,7 +80,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.app.practice.leetcode._82.ListNode" />
         <Renderer ID="LabelRenderer" role="label">
@@ -99,6 +99,7 @@
       <option name="valueLookupDelay" value="400" />
     </data-views>
     <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <scroll-to-center>true</scroll-to-center>
     </general>
   </component>

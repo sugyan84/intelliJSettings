@@ -11,6 +11,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".identity_bqproxy-client" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />

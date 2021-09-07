@@ -17,7 +17,7 @@
     <mask>pom.xml</mask>
     <mask>*.*</mask>
     <mask>*.cls</mask>
-    <mask>*.scala</mask>
     <mask>*.yml</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

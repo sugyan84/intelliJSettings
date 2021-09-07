@@ -15,6 +15,7 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
+      <mapping ext="inprogress" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />

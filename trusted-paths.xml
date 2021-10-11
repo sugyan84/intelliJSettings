@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/sugyan/repo/CDP" />
+        <option value="$USER_HOME$/sugyan/repo/RCE" />
       </list>
     </option>
   </component>

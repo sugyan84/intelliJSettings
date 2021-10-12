@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/sugyan/repo/CDP" />
         <option value="$USER_HOME$/sugyan/repo/RCE" />
+        <option value="$USER_HOME$/sugyan/sahu-repo" />
       </list>
     </option>
   </component>

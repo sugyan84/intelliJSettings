@@ -13,7 +13,6 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>data*.js</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
@@ -21,5 +20,6 @@
     <mask>*.cls</mask>
     <mask>*.yml</mask>
     <mask>*.scala</mask>
+    <mask>*.java</mask>
   </component>
 </application>

@@ -13,6 +13,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".identity_bqproxy-client" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="jslt" type="PLAIN_TEXT" />
       <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="inprogress" type="PLAIN_TEXT" />

@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="m" />
+  </action>
   <action id="Git.Configure.Remotes">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="r" />
   </action>

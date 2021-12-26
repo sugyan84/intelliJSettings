@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="ut" value="@Test&#10;public void $VAR$() {&#10;&#10;}" description="A sample Unit Test method" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

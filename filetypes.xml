@@ -20,6 +20,7 @@
       <mapping ext="inprogress" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
+      <mapping ext="mul" type="PLAIN_TEXT" />
       <mapping ext="b2x" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />

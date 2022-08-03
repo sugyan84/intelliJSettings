@@ -2,7 +2,6 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
-    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="10" />

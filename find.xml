@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/csctxtenrichmentservService/src/main/java/com/paypal/cs/rce/util/logging/CalUtils.java [csctxtenrichmentservService]'" />
-    <option name="defaultScopeName" value="File '…/csctxtenrichmentservService/src/main/java/com/paypal/cs/rce/util/logging/CalUtils.java [csctxtenrichmentservService]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/csctxtenrichmentservService/src/main/java/com/paypal/cs/rce/util/logging/CalUtils.java [csctxtenrichmentservService]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>

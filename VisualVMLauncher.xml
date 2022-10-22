@@ -1,6 +1,6 @@
 <application>
   <component name="VisualVMLauncher">
     <option name="jdkHome" value="" />
-    <option name="visualVmExecutable" value="" />
+    <option name="visualVmExecutable" value="/Applications/VisualVM.app/Contents/MacOS/visualvm" />
   </component>
 </application>

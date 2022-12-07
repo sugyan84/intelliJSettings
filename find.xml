@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,10 +20,10 @@
     <mask>*.scala</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.jslt</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
